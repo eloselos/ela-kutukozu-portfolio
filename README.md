@@ -1,2 +1,2 @@
-# ela-k-t-k-z--portfolio
+# ela-kutukozu-portfolio
 Portfolio website
